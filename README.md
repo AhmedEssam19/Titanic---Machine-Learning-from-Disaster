@@ -12,7 +12,7 @@ In this challenge, I', building a predictive model that answers the question: â€
 5. Random Forest Classifier
 
 ## Result
-The model could take 3557 <sup>th</sup> place out of 23529 with accuracy 0.78468.
+The model could take 3557<sup>th</sup> place out of 23529 with accuracy 0.78468.
 
 
 * For more information about the competition [click here](https://www.kaggle.com/c/titanic/overview)
